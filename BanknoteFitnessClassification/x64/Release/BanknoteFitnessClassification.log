@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\thanh\source\repos\BanknoteFitnessClassification\Subtract_Image.h(8,6): error C2601: 'detectDirtyBanknote': local function definitions are illegal
+C:\Users\thanh\source\repos\BanknoteFitnessClassification\Highlight_Dirty.h(7): message : this line contains a '{' which has not yet been matched
+C:\Users\thanh\source\repos\BanknoteFitnessClassification\main.cpp(3,5): error C2601: 'main': local function definitions are illegal
+C:\Users\thanh\source\repos\BanknoteFitnessClassification\Highlight_Dirty.h(7): message : this line contains a '{' which has not yet been matched
+C:\Users\thanh\source\repos\BanknoteFitnessClassification\Highlight_Dirty.h(7): fatal  error C1075: '{': no matching token found
